@@ -1049,3 +1049,13 @@ h4 {
 .citation-subtitle {
     font-size: 25px;
 }
+
+.social a {
+    display: flex;
+    flex-direction: column;
+}
+
+span.Aria {
+    color: #FFFFFF;
+}
+
