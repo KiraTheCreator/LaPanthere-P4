@@ -1059,3 +1059,15 @@ span.Aria {
     color: #FFFFFF;
 }
 
+.strong {
+    font-weight: bold;
+}
+
+.nobold {
+    font-weight: 400;
+    line-height: 1.4em;
+    font-size: 15px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+    text-transform: none;
+    font-size: 22px;
+}
